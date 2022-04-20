@@ -30,7 +30,7 @@
   "homepage": "https://github.com/AntoineAbhay/back-skeleton#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "convict": "^5.2.0",
+    "convict": "^6.2.2",
     "express": "^4.17.1",
     "helmet": "^3.21.2",
     "monk": "^7.1.1",
